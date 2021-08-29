@@ -1,0 +1,56 @@
+h1 {
+	text-align: center;
+	border-color: #848484;
+  border-width: 3px;
+  border-style: solid;
+}
+
+h2 {
+  color:#A901DB;
+	text-align:left;
+	font-size: 2em;
+  text-decoration: underline;
+	text-decoration-color: #151515;
+}
+
+h3 {
+  color:#A901DB;
+	text-align:left;
+	font-size: 2em;
+  text-decoration: underline;
+	text-decoration-color: #151515;
+}
+
+h4 {
+  color:#A901DB;
+	text-align:left;
+	font-size: 2em;
+  text-decoration: underline;
+	text-decoration-color: #151515;
+}
+
+h5 {
+	text-align:center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+	text-align: center;
+}
+
+body {
+	background-color:#D8D8D8;
+	color:black;
+}
+
+#myDiv {
+  border: 5px outset purple;
+  background-color:#A4A4A4 ;
+  text-align: center;
+}
+
+.intro {
+	font-size: 1em;
+	color:black;
+}
